@@ -20,3 +20,7 @@
 ## BBBGarish
 
 ![BBBGarish Theme](.doc/images/BBBGarish.png)
+
+## BBBPhrakPanda
+
+![BBBPhrakPanda Theme](.doc/images/BBBPhrakPanda.png)
