@@ -4,7 +4,13 @@
     "publisher": "cmjchrisjones1",
     "repository": "https://github.com/cmjchrisjones/BBBThemes",
     "description": "A selection of themes with a twist for BaldBeardedBuilder on Twitch!",
-    "version": "0.0.1",
+    "version": "0.0.2",
+    "license": "MIT",
+    "author": {
+        "name": "Chris Jones",
+        "email": "chris@c-j.tech",
+        "url": "https://www.c-j.tech"
+    },
     "engines": {
         "vscode": "^1.41.0"
     },
@@ -27,6 +33,11 @@
                 "label": "BBBGarish",
                 "uiTheme": "vs",
                 "path": "./themes/BBBGarish-color-theme.json"
+            },
+            {
+                "label": "BBBPhrakPanda",
+                "uiTheme": "vs",
+                "path": "./themes/BBBPhrakPanda-color-theme.json"
             }
         ]
     }
