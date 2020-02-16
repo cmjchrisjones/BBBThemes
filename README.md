@@ -11,16 +11,16 @@
 
 ## BBBDark
 
-![BBBDark Theme](.doc/images/BBBDark.png)
+![BBBDark Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBDark.png)
 
 ## BBBLight
 
-![BBBLight Theme](.doc/images/BBBLight.png)
+![BBBLight Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBLight.png)
 
 ## BBBGarish
 
-![BBBGarish Theme](.doc/images/BBBGarish.png)
+![BBBGarish Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBGarish.png)
 
 ## BBBPhrakPanda
 
-![BBBPhrakPanda Theme](.doc/images/BBBPhrakPanda.png)
+![BBBPhrakPanda Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBPhrakPanda.png)
