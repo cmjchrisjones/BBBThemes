@@ -17,3 +17,4 @@ jobs:
         echo test, and deploy your project.
     - name: GitHub Action for vsce
       uses: lannonbr/vsce-action@2.0.0
+      run: vsce publish $VSCE_TOKEN
