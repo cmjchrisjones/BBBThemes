@@ -24,3 +24,11 @@
 ## BBBPhrakPanda
 
 ![BBBPhrakPanda Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBPhrakPanda.png)
+
+## BBBVue
+
+![BBBVue Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBVue.png)
+
+## BBBPoo
+
+![BBBPoo Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBPoo.png)
