@@ -4,7 +4,7 @@
   "publisher": "cmjchrisjones1",
   "repository": "https://github.com/cmjchrisjones/BBBThemes",
   "description": "A selection of themes with a twist for BaldBeardedBuilder on Twitch!",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "license": "MIT",
   "author": {
     "name": "Chris Jones",
@@ -51,6 +51,11 @@
         "label": "BBBPoo",
         "uiTheme": "vs",
         "path": "./themes/BBBPoo-color-theme.json"
+      },
+      {
+        "label": "BBBPride",
+        "uiTheme": "vs",
+        "path": "./themes/BBBPride-color-theme.json"
       }
     ]
   }
