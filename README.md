@@ -11,24 +11,28 @@
 
 ## BBBDark
 
-![BBBDark Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBDark.png)
+![BBBDark Theme](.doc/images/BBBDark.png)
 
 ## BBBLight
 
-![BBBLight Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBLight.png)
+![BBBLight Theme](.doc/images/BBBLight.png)
 
 ## BBBGarish
 
-![BBBGarish Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBGarish.png)
+![BBBGarish Theme](.doc/images/BBBGarish.png)
 
 ## BBBPhrakPanda
 
-![BBBPhrakPanda Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBPhrakPanda.png)
+![BBBPhrakPanda Theme](.doc/images/BBBPhrakPanda.png)
 
 ## BBBVue
 
-![BBBVue Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBVue.png)
+![BBBVue Theme](.doc/images/BBBVue.png)
 
 ## BBBPoo
 
-![BBBPoo Theme](https://github.com/cmjchrisjones/BBBThemes/blob/master/.doc/images/BBBPoo.png)
+![BBBPoo Theme](.doc/images/BBBPoo.png)
+
+## BBBPride
+
+![BBBPride Theme](.doc/images/BBBPride.png)
