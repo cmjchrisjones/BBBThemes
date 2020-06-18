@@ -922,26 +922,6 @@
 				"foreground": "#B267E6"
 			}
 		},		
-		// {
-		// 	"scope": [
-		// 		"punctuation.definition.parameters.begin.js meta.parameters.js meta.function.js meta.block.js meta.function.expression.js meta.object.member.js meta.objectliteral.js meta.block.js source.js",
-		// 		"punctuation.definition.parameters.end.js meta.parameters.js meta.function.js meta.block.js meta.function.expression.js meta.object.member.js  meta.objectliteral.js meta.block.js source.js",
-		// 		"punctuation.definition.block.js meta.objectliteral.js meta.block.js meta.block.js meta.function.js meta.block.js meta.function.expression.js meta.object.member.js meta.objectliteral.js meta.block.js source.js",
-		// 		"meta.brace.round.js meta.block.js meta.block.js meta.function.js meta.block.js meta.function.expression.js meta.object.member.js meta.objectliteral.js meta.block.js source.js",
-		// 		"punctuation.terminator.statement.js meta.block.js meta.block.js meta.function.js meta.block.js meta.function.expression.js meta.object.member.js meta.objectliteral.js meta.block.js source.js",
-		// 		"punctuation.definition.dictionary.begin.json.comments meta.structure.dictionary.json.comments meta.structure.dictionary.value.json.comments meta.structure.dictionary.json.comments source.json.comments",
-		// 		"punctuation.definition.dictionary.end.json.comments meta.structure.dictionary.json.comments meta.structure.dictionary.value.json.comments meta.structure.dictionary.json.comments source.json.comments",
-		// 		"punctuation.parenthesis.open.cs source.cs",
-		// 		"punctuation.parenthesis.close.cs source.cs",
-		// 		"punctuation.curlybrace.open.cs source.cs",
-		// 		"punctuation.curlybrace.close.cs source.cs",
-		// 		"punctuation.squarebracket.open.cs source.cs",
-		// 		"punctuation.squarebracket.close.cs source.cs"
-		// 	],
-		// 	"settings": {
-		// 		"foreground": "#262335",
-		// 	}
-		// },
 		{
 			"scope": [
 				"punctuation.definition.parameters.begin.js",
