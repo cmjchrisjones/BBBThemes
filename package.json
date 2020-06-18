@@ -56,6 +56,11 @@
         "label": "BBBPride",
         "uiTheme": "vs",
         "path": "./themes/BBBPride-color-theme.json"
+      },
+      {
+        "label": "BBBSynth",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BBBSynth-color-theme.json"
       }
     ]
   }
