@@ -36,3 +36,7 @@
 ## BBBPride
 
 ![BBBPride Theme](.doc/images/BBBPride.png)
+
+## BBBSynth
+
+![BBBSynth Theme](.doc/images/BBBSynth.png)
