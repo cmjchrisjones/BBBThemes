@@ -40,3 +40,7 @@
 ## BBBSynth
 
 ![BBBSynth Theme](.doc/images/BBBSynth.png)
+
+## BBBHotDogStand
+
+![BBBHotDogStand Theme](.doc/images/BBBHotDogStand.png)
