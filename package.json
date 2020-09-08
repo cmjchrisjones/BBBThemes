@@ -66,6 +66,7 @@
         "label": "BBBHotDogStand",
         "uiTheme": "vs",
         "path": "./themes/BBBHotDogStand-color-theme.json"
+      }
     ]
   }
 }
