@@ -2,7 +2,7 @@ name: Deploy to VS Marketplace
 
 on:
   push:
-    branches: master
+    branches: main
 
 jobs:
   build:
@@ -17,3 +17,4 @@ jobs:
         args: "publish -p $VSCE_TOKEN"
       env:
         VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
+ 
